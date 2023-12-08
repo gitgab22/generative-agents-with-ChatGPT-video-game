@@ -3,8 +3,6 @@ import json
 
 
 
-openai.api_key  = "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"
-
 
 # Read and write the global time between two forms: 07:50  - 470 min from the midnight
 def time(s):
